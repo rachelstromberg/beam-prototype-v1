@@ -28,7 +28,7 @@ blocks = [
 ('body', 'Before testing improvements, agree on an accuracy and completeness checklist and record a baseline. Afterwards, compare editing time and the proportion of notes meeting that same checklist. Keep specific error reports separate from the overall star rating so useful outputs with important mistakes remain visible.'),
 ('heading', 'Know what the sample can answer'),
 ('body', 'The sample points to where to investigate; explaining why problems occur needs staff input and the original conversations and notes. Beyond the three priorities shown, further analysis could explore template relevance, missing context, and unsuccessful generation attempts.'),
-('body', 'We also compared ratings by AI model, but each template used only one model, so the data cannot establish which model performs better. To separate model effects from task differences, Beam could test models on the same transcripts and template tasks, using consistent staff review criteria.'),
+('body', 'We also compared ratings by AI model, but because each template used only one model and sample sizes were small, the data cannot conclusively establish whether differences in ratings reflect the model or the template task. To separate model effects from task differences, Beam could test models on the same transcripts and template tasks, using consistent staff review criteria.'),
 ('body', 'The extracts contain 200 generation attempts, 150 ratings, and 79 written comments. Timing covers 173 completed attempts and excludes 15 failed and 12 in-progress attempts. It does not include staff checking or editing time. The prototype’s methodology gives the detailed definitions and coverage.'),
 ]
 story = [Paragraph(text, styles[kind]) for kind, text in blocks]
