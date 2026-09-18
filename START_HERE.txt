@@ -1,0 +1,7 @@
+MAGIC NOTES SUBMISSION
+
+For the leadership handout, open LEADERSHIP_BRIEFING.pdf.
+LEADERSHIP_BRIEFING.docx is the editable Word version of the same one-page briefing.
+
+To run the prototype, follow README.txt.
+Runnable source code and sanitized data are in the application folder.

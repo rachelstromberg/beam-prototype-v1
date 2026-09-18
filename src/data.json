@@ -1,0 +1,424 @@
+{
+  "coverage": {
+    "transcripts": 200,
+    "attempts": 200,
+    "feedback": 150,
+    "written": 79,
+    "average": 3.9066666666666667,
+    "distinctLinked": 131,
+    "single": 80,
+    "multiple": 51,
+    "multipleTemplates": 50,
+    "sameTemplateRepeated": 1,
+    "unlinked": 69,
+    "crossCouncil": 39,
+    "councils": 3,
+    "users": 25
+  },
+  "concerns": [
+    {
+      "label": "Incorrect safeguarding flag",
+      "match": "Incorrectly flagged a safeguarding concern that wasn't there.",
+      "count": 6,
+      "low": 2,
+      "high": 4
+    },
+    {
+      "label": "Names mixed up",
+      "match": "Some of the names were mixed up in the output.",
+      "count": 5,
+      "low": 3,
+      "high": 2
+    },
+    {
+      "label": "Missing risk-assessment details",
+      "match": "Missed some key details about the risk assessment.",
+      "count": 3,
+      "low": 2,
+      "high": 1
+    }
+  ],
+  "configs": [
+    {
+      "name": "Adult Social Care - Case Note",
+      "n": 17,
+      "average": 4.411764705882353,
+      "distribution": [
+        0,
+        0,
+        2,
+        6,
+        9
+      ],
+      "written": 8,
+      "feedback": [
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 2
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 2
+        },
+        {
+          "text": "Accurate and well structured, saved me a lot of time.",
+          "count": 1
+        },
+        {
+          "text": "Formatting was clean and professional.",
+          "count": 1
+        },
+        {
+          "text": "Missed some key details about the risk assessment.",
+          "count": 1
+        },
+        {
+          "text": "Really helpful, especially the safeguarding flags section.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Brief Telephone Summary",
+      "n": 16,
+      "average": 4.5,
+      "distribution": [
+        0,
+        1,
+        1,
+        3,
+        11
+      ],
+      "written": 10,
+      "feedback": [
+        {
+          "text": "Formatting was clean and professional.",
+          "count": 3
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 2
+        },
+        {
+          "text": "Picked up on things I might have missed, very useful.",
+          "count": 2
+        },
+        {
+          "text": "Excellent summary, captured all the action points.",
+          "count": 1
+        },
+        {
+          "text": "Perfect, used it directly in my case notes.",
+          "count": 1
+        },
+        {
+          "text": "Some of the names were mixed up in the output.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Child & Family Meeting Minutes",
+      "n": 25,
+      "average": 3.76,
+      "distribution": [
+        0,
+        5,
+        5,
+        6,
+        9
+      ],
+      "written": 17,
+      "feedback": [
+        {
+          "text": "Needs more detail on the housing situation discussed.",
+          "count": 3
+        },
+        {
+          "text": "Good overall but the tone was a bit too formal for this context.",
+          "count": 2
+        },
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 2
+        },
+        {
+          "text": "Perfect, used it directly in my case notes.",
+          "count": 2
+        },
+        {
+          "text": "Very good, just needed minor edits before submitting.",
+          "count": 2
+        },
+        {
+          "text": "Excellent summary, captured all the action points.",
+          "count": 1
+        },
+        {
+          "text": "Formatting was clean and professional.",
+          "count": 1
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 1
+        },
+        {
+          "text": "Incorrectly flagged a safeguarding concern that wasn't there.",
+          "count": 1
+        },
+        {
+          "text": "Picked up on things I might have missed, very useful.",
+          "count": 1
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Early Help Assessment Note",
+      "n": 17,
+      "average": 3.411764705882353,
+      "distribution": [
+        3,
+        2,
+        3,
+        3,
+        6
+      ],
+      "written": 6,
+      "feedback": [
+        {
+          "text": "Incorrectly flagged a safeguarding concern that wasn't there.",
+          "count": 2
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 2
+        },
+        {
+          "text": "Accurate and well structured, saved me a lot of time.",
+          "count": 1
+        },
+        {
+          "text": "Very good, just needed minor edits before submitting.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Housing Assessment Summary",
+      "n": 17,
+      "average": 3.7058823529411766,
+      "distribution": [
+        1,
+        3,
+        1,
+        7,
+        5
+      ],
+      "written": 9,
+      "feedback": [
+        {
+          "text": "Excellent summary, captured all the action points.",
+          "count": 2
+        },
+        {
+          "text": "Good overall but the tone was a bit too formal for this context.",
+          "count": 2
+        },
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 2
+        },
+        {
+          "text": "Perfect, used it directly in my case notes.",
+          "count": 1
+        },
+        {
+          "text": "Picked up on things I might have missed, very useful.",
+          "count": 1
+        },
+        {
+          "text": "Really helpful, especially the safeguarding flags section.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Mental Health Review Note",
+      "n": 20,
+      "average": 3.55,
+      "distribution": [
+        3,
+        1,
+        5,
+        4,
+        7
+      ],
+      "written": 10,
+      "feedback": [
+        {
+          "text": "Really helpful, especially the safeguarding flags section.",
+          "count": 2
+        },
+        {
+          "text": "Some of the names were mixed up in the output.",
+          "count": 2
+        },
+        {
+          "text": "Accurate and well structured, saved me a lot of time.",
+          "count": 1
+        },
+        {
+          "text": "Excellent summary, captured all the action points.",
+          "count": 1
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 1
+        },
+        {
+          "text": "Perfect, used it directly in my case notes.",
+          "count": 1
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 1
+        },
+        {
+          "text": "Very good, just needed minor edits before submitting.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Multi-Agency Meeting Summary",
+      "n": 25,
+      "average": 3.92,
+      "distribution": [
+        0,
+        2,
+        6,
+        9,
+        8
+      ],
+      "written": 11,
+      "feedback": [
+        {
+          "text": "Missed some key details about the risk assessment.",
+          "count": 2
+        },
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 2
+        },
+        {
+          "text": "Formatting was clean and professional.",
+          "count": 1
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 1
+        },
+        {
+          "text": "Incorrectly flagged a safeguarding concern that wasn't there.",
+          "count": 1
+        },
+        {
+          "text": "Needs more detail on the housing situation discussed.",
+          "count": 1
+        },
+        {
+          "text": "Picked up on things I might have missed, very useful.",
+          "count": 1
+        },
+        {
+          "text": "Some of the names were mixed up in the output.",
+          "count": 1
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Safeguarding Referral Draft",
+      "n": 13,
+      "average": 4.230769230769231,
+      "distribution": [
+        0,
+        1,
+        1,
+        5,
+        6
+      ],
+      "written": 8,
+      "feedback": [
+        {
+          "text": "Incorrectly flagged a safeguarding concern that wasn't there.",
+          "count": 2
+        },
+        {
+          "text": "Accurate and well structured, saved me a lot of time.",
+          "count": 1
+        },
+        {
+          "text": "Good overall but the tone was a bit too formal for this context.",
+          "count": 1
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 1
+        },
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 1
+        },
+        {
+          "text": "Some of the names were mixed up in the output.",
+          "count": 1
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "lengths": [
+    {
+      "label": "Under 3,000",
+      "n": 47,
+      "median": 8.128,
+      "p90": 14.8196
+    },
+    {
+      "label": "3,000\u20135,999",
+      "n": 41,
+      "median": 19.053,
+      "p90": 32.238
+    },
+    {
+      "label": "6,000\u20138,999",
+      "n": 50,
+      "median": 34.989999999999995,
+      "p90": 52.675700000000006
+    },
+    {
+      "label": "9,000+",
+      "n": 35,
+      "median": 47.088,
+      "p90": 71.745
+    }
+  ],
+  "status": {
+    "completed": 173,
+    "in_progress": 12,
+    "failed": 15
+  },
+  "reference": "2025-12-14 11:40:06",
+  "olderInProgress": 11
+}

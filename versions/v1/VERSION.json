@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "label": "Version 1",
+  "immutableTag": "v1.0.0",
+  "streamlitEntrypoint": "versions/v1/streamlit_app.py",
+  "frozenAt": "2026-09-18T03:32:56.349Z"
+}

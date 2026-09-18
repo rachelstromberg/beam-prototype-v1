@@ -1,0 +1,16 @@
+{
+  "name": "magic-notes-leadership-review",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A local, historical-sample leadership prototype with no runtime dependencies.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs dist",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

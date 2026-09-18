@@ -1,0 +1,11 @@
+data/
+TASK_BRIEF.pdf
+.DS_Store
+dist/
+*.zip
+node_modules/
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+magic-notes-prototype/
+magic-notes-submission-final/
