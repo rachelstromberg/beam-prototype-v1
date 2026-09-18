@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#203b38">
+  <title>Magic Notes · Customer review</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#review">Skip to findings</a>
+  <div id="app"><p class="loading" role="status">Loading the customer review…</p></div>
+  <script type="module" src="./app.js"></script>
+  <script>
+    // Share only readiness and rendered height with the Streamlit host.
+    if (window.parent !== window) {
+      const send = (type, fields = {}) => window.parent.postMessage({isStreamlitMessage:true, type, ...fields}, '*');
+      const resize = () => send('streamlit:setFrameHeight', {height:Math.ceil(document.body.getBoundingClientRect().height)});
+      send('streamlit:componentReady', {apiVersion:1});
+      window.addEventListener('message', event => {
+        if (event.source === window.parent && event.data?.type === 'streamlit:render') resize();
+      });
+      window.addEventListener('load', resize);
+      new ResizeObserver(resize).observe(document.body);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,819 @@
+{
+  "coverage": {
+    "transcripts": 200,
+    "attempts": 200,
+    "feedback": 150,
+    "written": 79,
+    "average": 3.9066666666666667,
+    "councils": 3,
+    "linked": 131,
+    "unlinked": 69,
+    "noCompleted": 11,
+    "multipleTemplates": 50
+  },
+  "workflows": [
+    {
+      "id": "d26bd427",
+      "name": "Early Help Assessment Note",
+      "average": 3.411764705882353,
+      "n": 17,
+      "distribution": [
+        3,
+        2,
+        3,
+        3,
+        6
+      ],
+      "written": 6,
+      "feedback": [
+        {
+          "text": "Incorrectly flagged a safeguarding concern that wasn't there.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "text": "Accurate and well structured, saved me a lot of time.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "text": "Very good, just needed minor edits before submitting.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32fd1539",
+      "name": "Mental Health Review Note",
+      "average": 3.55,
+      "n": 20,
+      "distribution": [
+        3,
+        1,
+        5,
+        4,
+        7
+      ],
+      "written": 10,
+      "feedback": [
+        {
+          "text": "Really helpful, especially the safeguarding flags section.",
+          "count": 2,
+          "ratings": [
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Some of the names were mixed up in the output.",
+          "count": 2,
+          "ratings": [
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "text": "Accurate and well structured, saved me a lot of time.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Excellent summary, captured all the action points.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 1,
+          "ratings": [
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Perfect, used it directly in my case notes.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 1,
+          "ratings": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Very good, just needed minor edits before submitting.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5731856f",
+      "name": "Housing Assessment Summary",
+      "average": 3.7058823529411766,
+      "n": 17,
+      "distribution": [
+        1,
+        3,
+        1,
+        7,
+        5
+      ],
+      "written": 9,
+      "feedback": [
+        {
+          "text": "Excellent summary, captured all the action points.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Good overall but the tone was a bit too formal for this context.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "text": "Perfect, used it directly in my case notes.",
+          "count": 1,
+          "ratings": [
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Picked up on things I might have missed, very useful.",
+          "count": 1,
+          "ratings": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Really helpful, especially the safeguarding flags section.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1152467",
+      "name": "Child & Family Meeting Minutes",
+      "average": 3.76,
+      "n": 25,
+      "distribution": [
+        0,
+        5,
+        5,
+        6,
+        9
+      ],
+      "written": 17,
+      "feedback": [
+        {
+          "text": "Needs more detail on the housing situation discussed.",
+          "count": 3,
+          "ratings": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "text": "Good overall but the tone was a bit too formal for this context.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Perfect, used it directly in my case notes.",
+          "count": 2,
+          "ratings": [
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "text": "Very good, just needed minor edits before submitting.",
+          "count": 2,
+          "ratings": [
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Excellent summary, captured all the action points.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Formatting was clean and professional.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Incorrectly flagged a safeguarding concern that wasn't there.",
+          "count": 1,
+          "ratings": [
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Picked up on things I might have missed, very useful.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0362c9cd",
+      "name": "Multi-Agency Meeting Summary",
+      "average": 3.92,
+      "n": 25,
+      "distribution": [
+        0,
+        2,
+        6,
+        9,
+        8
+      ],
+      "written": 11,
+      "feedback": [
+        {
+          "text": "Missed some key details about the risk assessment.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Formatting was clean and professional.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Incorrectly flagged a safeguarding concern that wasn't there.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "text": "Needs more detail on the housing situation discussed.",
+          "count": 1,
+          "ratings": [
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Picked up on things I might have missed, very useful.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Some of the names were mixed up in the output.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c372b93",
+      "name": "Safeguarding Referral Draft",
+      "average": 4.230769230769231,
+      "n": 13,
+      "distribution": [
+        0,
+        1,
+        1,
+        5,
+        6
+      ],
+      "written": 8,
+      "feedback": [
+        {
+          "text": "Incorrectly flagged a safeguarding concern that wasn't there.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "text": "Accurate and well structured, saved me a lot of time.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Good overall but the tone was a bit too formal for this context.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 1,
+          "ratings": [
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Some of the names were mixed up in the output.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8fa9e0dc",
+      "name": "Adult Social Care \u2013 Case Note",
+      "average": 4.411764705882353,
+      "n": 17,
+      "distribution": [
+        0,
+        0,
+        2,
+        6,
+        9
+      ],
+      "written": 8,
+      "feedback": [
+        {
+          "text": "Not relevant to the template I selected.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "The summary was too long, I needed something more concise.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "text": "Accurate and well structured, saved me a lot of time.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Formatting was clean and professional.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Missed some key details about the risk assessment.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Really helpful, especially the safeguarding flags section.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bbbbedd9",
+      "name": "Brief Telephone Summary",
+      "average": 4.5,
+      "n": 16,
+      "distribution": [
+        0,
+        1,
+        1,
+        3,
+        11
+      ],
+      "written": 10,
+      "feedback": [
+        {
+          "text": "Formatting was clean and professional.",
+          "count": 3,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "text": "Great structure but missed the emotional context of the conversation.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "text": "Picked up on things I might have missed, very useful.",
+          "count": 2,
+          "ratings": [
+            0,
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "text": "Excellent summary, captured all the action points.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Perfect, used it directly in my case notes.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "text": "Some of the names were mixed up in the output.",
+          "count": 1,
+          "ratings": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "concerns": [
+    {
+      "label": "Incorrect safeguarding flag",
+      "phrase": "Incorrectly flagged a safeguarding concern that wasn't there.",
+      "count": 6,
+      "low": 2,
+      "high": 4
+    },
+    {
+      "label": "Names mixed up",
+      "phrase": "Some of the names were mixed up in the output.",
+      "count": 5,
+      "low": 3,
+      "high": 2
+    },
+    {
+      "label": "Missing risk details",
+      "phrase": "Missed some key details about the risk assessment.",
+      "count": 3,
+      "low": 2,
+      "high": 1
+    }
+  ],
+  "waits": [
+    {
+      "label": "0\u201330 min",
+      "n": 58,
+      "median": 9.9765,
+      "p90": 18.748
+    },
+    {
+      "label": "30\u201360 min",
+      "n": 62,
+      "median": 24.2205,
+      "p90": 45.7087
+    },
+    {
+      "label": "Over 60 min",
+      "n": 53,
+      "median": 44.028,
+      "p90": 66.1496
+    }
+  ],
+  "statuses": {
+    "completed": 173,
+    "in_progress": 12,
+    "failed": 15
+  }
+}
