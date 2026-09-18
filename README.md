@@ -4,6 +4,14 @@ A focused, clickable presentation of four improvement priorities for dependable 
 
 The repository also contains a frozen Streamlit-ready Version 1. See `VERSIONING.md` for the release and deployment model and `DEPLOYMENTS.md` for permanent links.
 
+## Published Version 1
+
+- Live app: **https://beam-magic-notes-v1.streamlit.app/**
+- Immutable GitHub release: **https://github.com/rachelstromberg/beam-prototype-v1/releases/tag/v1.0.0**
+- Frozen branch: `release/v1`
+
+Future versions use a new `versions/vN/` directory, `release/vN` branch, semantic-version tag, immutable GitHub release, and Streamlit app URL. Version 1 is never redeployed from `main`.
+
 ## Run
 
 Requires **Node.js 20+**. Extract the ZIP, open a terminal in `magic-notes-prototype`, and run:
