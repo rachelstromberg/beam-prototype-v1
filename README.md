@@ -1,5 +1,7 @@
 # Magic Notes customer review
 
+Live prototype: https://beam-magic-notes-customer-review.streamlit.app/
+
 A clickable customer leadership review: target support where ratings are lower, look beyond ratings, and set expectations for generation time. It uses the supplied historical sample across three local authorities.
 
 ## Run with Streamlit

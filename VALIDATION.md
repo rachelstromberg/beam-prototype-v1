@@ -25,7 +25,7 @@ Checked 18 September 2026. Revised after Rachel's manual review; checks below in
 ## Delivery
 
 - Build copies an explicit allowlist of five assets to `dist`.
-- Standalone one-page leadership handout accompanies the editable summary.
+- A one-page PDF leadership use guide accompanies the runnable app and README.
 - Packaging uses an explicit file list and excludes original extracts, the original task brief, earlier versions, and dependencies.
 - A local preview is provided for the next manual review. No changes have been published to the deployed V1.
 
@@ -35,5 +35,13 @@ Checked 18 September 2026. Revised after Rachel's manual review; checks below in
 - Checked updated copy, all eight workflow selections, all three action panels, and timing labels in the browser.
 - Confirmed the revised views fit a 390-pixel mobile viewport without horizontal overflow.
 - Browser reported no errors or warnings during the revised workflow checks.
-- Regenerated and visually inspected the matching one-page PDF briefing.
-- Removed the overview statistics strip and the weaker closing questions; retained one visible customer question.
+- Created and visually inspected the one-page PDF use guide, including decision context, rationale, follow-up design, and sample limitations.
+- Removed the overview statistics strip, opening scope line, and closing question. Folded the useful review action into the first recommended next steps panel.
+
+## Streamlit release
+
+- Added a separate Streamlit entry point using the same five public assets and an adaptive component height.
+- JavaScript syntax and Python entry-point compilation passed.
+- Published the separate customer-review branch to https://beam-magic-notes-customer-review.streamlit.app/. The original release/v1 app is unchanged.
+- Verified the live workflow selector, accuracy view, timing view, and revised action panels.
+- Package includes the runnable application, README, and LEADERSHIP_GUIDE.pdf required for the prototype exercise.

@@ -17,7 +17,7 @@ styles = {
 }
 blocks = [
 ('title', 'Using the Magic Notes review'),
-('subtitle', 'A short guide for customer leadership'),
+('subtitle', 'A short guide for customer leadership | <link href="https://beam-magic-notes-customer-review.streamlit.app/" color="#345f50"><u>Open the interactive review</u></link>'),
 ('body', 'Use the prototype to choose a focused improvement to test with staff and Beam. The supplied sample combines three local authorities; check whether its findings match your own teams’ experience before setting priorities.'),
 ('heading', 'Use it to reach a decision'),
 ('body', 'In a leadership discussion, choose one finding to investigate, identify the staff who can explain it, and agree who will coordinate the work with Beam. Leave with a small review to carry out and a date to discuss the results. The charts help decide where to look; staff examples help establish what needs to change.'),
